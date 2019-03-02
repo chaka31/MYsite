@@ -264,35 +264,6 @@ footer p{
 	.nav-list-item{
 		margin: 0 10px;
 	}
-	.portfolio-box{
-		width: 90%;
-		margin: 0 auto;
-	}
-	.portfolio-item1{
-		width: 45%;
-		margin-right: 10%;
-	}
-	.portfolio-item2{
-		width: 45%;
-		margin-right: 0;
-	}
-	.portfolio-item3{
-		width: 45%;
-		margin-right: 10%;
-		margin-top: 10px;
-	}
-	.portfolio-item4{
-		width: 45%;
-		margin-right: 0;
-	}
-	.portfolio-item5{
-		width: 45%;
-		margin-right: 10%;
-	}
-	.portfolio-item6{
-		width: 45%;
-		margin-right: 0;
-	}
 	#Feature{
 		width: 90%;
 		margin: 0 5%;
@@ -343,8 +314,6 @@ footer p{
 	.social i{
 		margin-right: 8px;
 	}
-}
-@media screen and (max-width:425px) {
 	header{
 		height: 50px;
 	}
@@ -409,6 +378,7 @@ footer p{
 	.portfolio-box{
 		width: 90%;
 		height: 770px;
+		margin: 0 auto;
 	}
 	.portfolio-box div{
 		float: none;
@@ -425,7 +395,6 @@ footer p{
 	}
 	.portfolio-box div{
 		margin-bottom: 10px;
-		width: 90%;
 	}
 	.portfolio-box div:last-child{
 		margin-bottom: 0px;
